@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>bismilah</title>
+	<title>alhamdulilah</title>
 </head>
 <body>
 
