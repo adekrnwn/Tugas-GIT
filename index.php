@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>bismilah</title>
+	<title>Sistem Order Online Kopma</title>
 </head>
 <body>
 
