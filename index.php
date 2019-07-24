@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>alhamdulilah</title>
+	<title>Sistem Order Online Kopma</title>
 </head>
 <body>
 
